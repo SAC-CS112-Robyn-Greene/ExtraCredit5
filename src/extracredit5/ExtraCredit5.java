@@ -22,7 +22,7 @@ public class ExtraCredit5 {
         int dice1 = 0;
         int dice2 = 0;
         String reply = ("y");
-        int total;
+        int total; // Please explain usage of this variable
 
         //while up first  
         for (total = 0; total <= dice1 + dice2; total++) {
